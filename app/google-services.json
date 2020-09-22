@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "752198475787",
+    "firebase_url": "https://my-medical-companion.firebaseio.com",
+    "project_id": "my-medical-companion",
+    "storage_bucket": "my-medical-companion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752198475787:android:bbbf8c8617a395ad5d270e",
+        "android_client_info": {
+          "package_name": "com.example.mymedicalcompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752198475787-d5bpciaetqc3pdr82esl0to55jp9q1t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymedicalcompanion",
+            "certificate_hash": "561b4bbba03a2d8263e896e28f4e6e872bf2ce46"
+          }
+        },
+        {
+          "client_id": "752198475787-dgp08r282v33a384q6e6jvnr4e3ln7a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHhFgMZg-FLaC37IZef2ZJwDAsjdFpWfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752198475787-dgp08r282v33a384q6e6jvnr4e3ln7a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
